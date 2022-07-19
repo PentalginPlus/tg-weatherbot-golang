@@ -1,4 +1,4 @@
-module telegram_weather_bot
+module github.com/PentalginPlus/tg-weatherbot-golang
 
 go 1.18
 
